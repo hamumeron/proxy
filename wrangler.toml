@@ -1,1 +1,8 @@
+name = "anonymous-web-proxy"
+main = "src/index.js"
+compatibility_date = "2025-06-01"
+
+[vars]
+PASSWORD = "114514"
+COOKIE_NAME = "auth"
 
